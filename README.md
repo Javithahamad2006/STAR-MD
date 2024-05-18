@@ -10,12 +10,13 @@
 
 # </a>
    <a aria-label="STAR-MD-V2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
- <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+ <p align="center"><img src="[https://profile-counter.glitchttps://profile-counter.glitch.me/{xcelsama}/count.svgh.me/{xcelsama}/count.svg](https://telegra.ph/file/708eb9314c74452e61c26.jpg)" alt="xcelsama:: Visitor's Count" /></p>
 
 
 
 ## 🌟 `Star This Repo`
 If you find STAR-MD helpful, consider giving it a star 🌟 to show your appreciation,Support.
+IT'Z ME JAVITH MODDER 💀😈🔥
 
 
 
